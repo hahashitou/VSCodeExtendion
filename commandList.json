@@ -1,0 +1,10 @@
+{
+	"generatemd": {
+		"title": "GenerateMD",
+		"description": "This is a command to generate a markdown file quickly"
+	},
+	"sayhello": {
+		"title": "HelloWorld",
+		"description": "This is a command to say hello world"
+	}
+}
